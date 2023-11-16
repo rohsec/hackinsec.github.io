@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+div{
+    /* background-color:red; */
+    padding:10px
+}
+h1{
+    color: green;
+    font-weight: 200;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+h2{
+    color:white
+}
