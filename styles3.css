@@ -2,8 +2,14 @@ body{
     background-color: #0e1117;
     padding-left: 1rem;
     padding-right: 1rem;
-    color:white
+    color:#FEFEFE;
+    font-family: "gohu";
+    src: url("static/gohu.woff") format('woff');
 }
+@font-face {
+    font-family: "gohu";
+    src: url("static/gohu.woff") format('woff');
+  }
 .cc{
     text-align: center;
 }
@@ -11,7 +17,10 @@ h1{
     color: white;
 }
 a{
-    color: yellow;
+    color: #d10000;
     text-decoration: none;
+}
+.r{
+    color: #d10000;
 }
 
